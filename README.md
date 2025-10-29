@@ -31,7 +31,7 @@ To design and develop a Library Management System that manages book records, mem
 
 
 # PACKAGE DIAGRAM:
-<img width="1141" height="744" alt="image" src="https://github.com/user-attachments/assets/bf7b63ef-407f-482e-8558-e52a1aadf4b6" />
+<img width="855" height="494" alt="image" src="https://github.com/user-attachments/assets/16d2e2d8-f518-4461-9f65-3b7a3c37afa2" />
 
 # RESULT:
 The Library Management System was successfully designed, developed, and tested as per the specified requirements.
